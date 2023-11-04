@@ -1,0 +1,13 @@
+.album{
+    display: block;
+
+    &__thumbnail{
+       
+    }
+
+    &__thumbnail > img{
+        width: 250px;
+        height: 250px;
+        border-radius: 5px;
+    }
+}
